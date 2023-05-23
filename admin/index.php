@@ -184,7 +184,7 @@ $tableOutput.="</tbody></TABLE>";
                         <li>
                             <a href="editsettings.php?password=<?=$_GET['password']?><?=$date_str!==''?$date_str:''?>" aria-expanded="false">
                                 <i class="icon nalika-table icon-wrap"></i>
-                                <span class="mini-click-non">Settings</span>
+                                <span class="mini-click-non">Configurações</span>
                             </a>
                         </li>
                     </ul>
